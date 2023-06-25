@@ -1,2 +1,2 @@
 # obra
-obra de arte eche con css grid
+obra de arte hecha con css grid
